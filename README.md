@@ -1,2 +1,0 @@
-# cyberknight
-Hacking Script
